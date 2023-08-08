@@ -126,3 +126,16 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 AUTH_USER_MODEL = 'user.User'
+
+
+
+
+# ARVAN CLOUD STORAGE
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
+AWS_ACCESS_KEY_ID = 'ای دی کد'
+AWS_SECRET_ACCESS_KEY = 'کد دسترسی شما'
+AWS_S3_ENDPOINT_URL = 'لینک '
+AWS_STORAGE_BUCKET_NAME = 'اسم باکت '
+AWS_SERVICE_NAME = 's3'
+AWS_S3_FILE_OVERWRITE = False
+AWS_LOCAL_STORAGE = f'{BASE_DIR}/aws/'
