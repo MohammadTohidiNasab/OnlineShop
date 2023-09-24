@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from accounts.models import OtpCode
+from user.models import OtpCode
 from datetime import datetime, timedelta
 import pytz
 
