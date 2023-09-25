@@ -1,5 +1,5 @@
 from celery import shared_task
-from accounts.models import OtpCode
+from user.models import OtpCode
 from datetime import datetime, timedelta
 import pytz
 

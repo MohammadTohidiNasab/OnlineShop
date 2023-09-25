@@ -1,7 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import AbstractBaseUser, PermissionsMixin
 from .managers import UserManager
-# Create your models here.
 
 
 class User(AbstractBaseUser, PermissionsMixin):
@@ -24,7 +23,6 @@ class User(AbstractBaseUser, PermissionsMixin):
 		return self.is_admin
 
 
-
 class OtpCode(models.Model):
 	phone_number = models.CharField(max_length=11, unique=True)
 	code = models.PositiveSmallIntegerField()
@@ -32,3 +30,4 @@ class OtpCode(models.Model):
 
 	def __str__(self):
 		return f'{self.phone_number} - {self.code} - {self.created}'
+	
