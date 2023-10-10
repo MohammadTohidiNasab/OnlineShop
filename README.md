@@ -37,9 +37,9 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: customize user , sms otp;\
+:heavy_check_mark: discount coupon ;\
+:heavy_check_mark: Zarin Pal payment gateway, Arvan Cloud's cloud space  ;
 
 ## :rocket: Technologies ##
 
