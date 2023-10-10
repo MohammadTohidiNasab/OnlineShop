@@ -31,7 +31,7 @@
 <br>
 
 ## :dart: About ##
-
+a online shop using django and Jinja2 
 ## :sparkles: Features ##
 
 :heavy_check_mark: customize user , otp sms \
