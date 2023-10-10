@@ -45,11 +45,11 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Python]
-- [Django](https://nodejs.org/en/)
-- [Zarinpal](https://pt-br.reactjs.org/)
-- [html](https://reactnative.dev/)
-- [Jinja2](https://www.typescriptlang.org/)
+- Python
+- Django
+- Zarinpal
+- html css
+- Jinja2
 
 ## :white_check_mark: Requirements ##
 
