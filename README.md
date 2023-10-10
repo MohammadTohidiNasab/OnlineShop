@@ -35,7 +35,7 @@
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: customize user , sms otp\
+:heavy_check_mark: customize user , otp sms \
 :heavy_check_mark: discount coupon \
 :heavy_check_mark: Zarin Pal payment gateway, Arvan Cloud's cloud space  
 
