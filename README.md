@@ -47,6 +47,9 @@ The following tools were used in this project:
 - Zarinpal
 - html css
 - Jinja2
+- docker
+- arvan clode
+- sms otp sign up
 
 ## :white_check_mark: Requirements ##
 
