@@ -63,7 +63,7 @@ $ git clone https://github.com/MohammadTohidiNasab/OnlineShop
 $ cd onlineshop
 
 # Install requirments.txt
-$ pip isnall -r requirments.txt
+$ pip install -r requirments.txt
 
 # Run the project
 $ python manage.py runserver
