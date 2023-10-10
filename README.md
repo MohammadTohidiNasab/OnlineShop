@@ -37,19 +37,19 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: customize user , sms otp;\
-:heavy_check_mark: discount coupon ;\
-:heavy_check_mark: Zarin Pal payment gateway, Arvan Cloud's cloud space  ;
+:heavy_check_mark: customize user , sms otp\
+:heavy_check_mark: discount coupon \
+:heavy_check_mark: Zarin Pal payment gateway, Arvan Cloud's cloud space  
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Python]
+- [Django](https://nodejs.org/en/)
+- [Zarinpal](https://pt-br.reactjs.org/)
+- [html](https://reactnative.dev/)
+- [Jinja2](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
