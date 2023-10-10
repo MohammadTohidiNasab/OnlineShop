@@ -53,13 +53,13 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and python installed.
+Before starting :checkered_flag:, you need to have Git and python installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/onlineshop
+$ git clone https://github.com/MohammadTohidiNasab/OnlineShop
 
 # Access
 $ cd onlineshop
