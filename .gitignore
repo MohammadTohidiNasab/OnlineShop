@@ -228,6 +228,7 @@ poetry.toml
 
 pyrightconfig.json
 
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
